@@ -5,7 +5,7 @@ These lecture demos were adapted from course materials in UC Berkeley's Data 8, 
 
 Click the Binder icon below to interact with the notebooks in the cloud. Note that you cannot save your work directly in the binder environment.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Peter-Jantsch/m121-sp21-lecture-demo-env/main?urlpath=git-pull?repo=https://github.com/Peter-Jantsch/m121-sp21-lecture-demo)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Peter-Jantsch/m121-sp21-lecture-demo-env/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FPeter-Jantsch%252Fm121-sp21-lecture-demo%26urlpath%3Dtree%252Fm121-sp21-lecture-demo%252F%26branch%3Dmain)
 
 To download the files to your computer as a .zip file, [click here](https://github.com/Peter-Jantsch/m121-sp21-lecture-demo/archive/main.zip). You can then open each notebook file `.ipynb` using the Jupyter notebook app in the Anaconda navigator.
 
